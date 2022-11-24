@@ -1,0 +1,8 @@
+a=int(input('enter student no"))
+b=input('name')
+c=int(input('subject 1 marks'))
+d=int(input('subject 2 marks'))
+if c>35 and d>35:
+  print('pass')
+else:
+  print('fail')
